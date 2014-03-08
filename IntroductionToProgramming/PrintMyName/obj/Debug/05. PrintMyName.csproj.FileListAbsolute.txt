@@ -1,0 +1,5 @@
+D:\C Sharp 2013\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\C Sharp 2013\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+D:\C Sharp 2013\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\C Sharp 2013\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+D:\C Sharp 2013\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

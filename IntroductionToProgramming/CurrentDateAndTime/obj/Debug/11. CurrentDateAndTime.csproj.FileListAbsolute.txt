@@ -1,0 +1,5 @@
+D:\C Sharp 2013\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\C Sharp 2013\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\C Sharp 2013\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\C Sharp 2013\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\C Sharp 2013\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

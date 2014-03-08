@@ -1,0 +1,6 @@
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\obj\Debug\13. PrintLongSequence.csprojResolveAssemblyReference.cache
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

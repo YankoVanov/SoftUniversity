@@ -1,0 +1,2 @@
+﻿C# is a programming language, .NET is the framework that the language is built on.
+If C# is the airplane then .NET is the runway !

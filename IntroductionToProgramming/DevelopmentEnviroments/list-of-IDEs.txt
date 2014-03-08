@@ -1,0 +1,27 @@
+﻿1. Visual Studio :
+			Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+			It is used to develop console and graphical user interface applications along with Windows 
+			Forms or WPF applications, web sites, web applications, web services, and also Windows Store
+			apps in both native code together with managed code for all platforms supported by Microsoft Windows,
+			Windows Mobile, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight.
+
+2. Eclipse :
+			Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible 
+			plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop 
+			applications. By means of various plug-ins, Eclipse may also be used to develop applications in other 
+			programming languages: Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, 
+			Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. It can also be 
+			used to develop packages for the software Mathematica. Development environments include the Eclipse 
+			Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, among others.
+
+3. NetBeans :
+			NetBeans is an integrated development environment (IDE) for developing primarily with Java, but also with
+			other languages, in particular PHP, C/C++, and HTML5.[2] It is also an application platform framework for 
+			Java desktop applications and others.
+
+4. Android Studio :
+			Android Studio is an integrated development environment (IDE) for the Android platform.
+
+5. Xcode :
+			Xcode is an integrated development environment (IDE) containing a suite of software 
+			development tools developed by Apple for developing software for OS X and iOS.

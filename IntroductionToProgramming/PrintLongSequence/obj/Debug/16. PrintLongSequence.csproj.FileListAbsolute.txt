@@ -1,0 +1,3 @@
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\C Sharp 2013\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

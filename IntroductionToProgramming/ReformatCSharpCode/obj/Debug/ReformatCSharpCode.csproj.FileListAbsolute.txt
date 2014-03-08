@@ -1,0 +1,5 @@
+D:\C Sharp 2013\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe.config
+D:\C Sharp 2013\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+D:\C Sharp 2013\IntroductionToProgramming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+D:\C Sharp 2013\IntroductionToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\C Sharp 2013\IntroductionToProgramming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb
