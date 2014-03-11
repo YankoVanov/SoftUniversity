@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\StringsAndbjects\bin\Debug\StringsAndbjects.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\StringsAndbjects\bin\Debug\StringsAndbjects.exe
+D:\C Sharp 2013\PrimitiveDataTypes\StringsAndbjects\bin\Debug\StringsAndbjects.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\StringsAndbjects\obj\Debug\StringsAndbjects.exe
+D:\C Sharp 2013\PrimitiveDataTypes\StringsAndbjects\obj\Debug\StringsAndbjects.pdb

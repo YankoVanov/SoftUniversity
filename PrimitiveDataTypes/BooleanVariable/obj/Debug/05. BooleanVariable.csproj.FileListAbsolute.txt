@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\C Sharp 2013\PrimitiveDataTypes\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\C Sharp 2013\PrimitiveDataTypes\BooleanVariable\obj\Debug\BooleanVariable.pdb

@@ -3,3 +3,6 @@ D:\C Sharp 2013\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.ex
 D:\C Sharp 2013\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.pdb
 D:\C Sharp 2013\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
 D:\C Sharp 2013\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.exe
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\PrintNumbers\obj\Debug\PrintNumbers.pdb

@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\C Sharp 2013\PrimitiveDataTypes\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\C Sharp 2013\PrimitiveDataTypes\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

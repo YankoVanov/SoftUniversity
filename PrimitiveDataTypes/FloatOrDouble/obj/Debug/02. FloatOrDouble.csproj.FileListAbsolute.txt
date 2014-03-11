@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\C Sharp 2013\PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\C Sharp 2013\PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

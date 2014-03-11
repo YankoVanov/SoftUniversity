@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\C Sharp 2013\PrimitiveDataTypes\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\C Sharp 2013\PrimitiveDataTypes\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

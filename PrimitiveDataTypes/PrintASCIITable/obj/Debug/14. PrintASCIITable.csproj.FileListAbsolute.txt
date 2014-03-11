@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+D:\C Sharp 2013\PrimitiveDataTypes\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+D:\C Sharp 2013\PrimitiveDataTypes\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

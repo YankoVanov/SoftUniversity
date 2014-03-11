@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\C Sharp 2013\PrimitiveDataTypes\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\C Sharp 2013\PrimitiveDataTypes\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

@@ -1,0 +1,7 @@
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\obj\Debug\DeclareVariables.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\bin\Debug\DeclareVariables.exe.CodeAnalysisLog.xml
+D:\C Sharp 2013\PrimitiveDataTypes\DeclareVariables\bin\Debug\DeclareVariables.exe.lastcodeanalysissucceeded

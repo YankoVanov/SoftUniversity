@@ -1,1 +1,6 @@
 D:\C Sharp 2013\IntroductionToProgramming\DevelopmentEnviroments\bin\Debug\DevelopmentEnviroments.exe.config
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\DevelopmentEnviroments\bin\Debug\DevelopmentEnviroments.exe.config
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\DevelopmentEnviroments\bin\Debug\DevelopmentEnviroments.exe
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\DevelopmentEnviroments\bin\Debug\DevelopmentEnviroments.pdb
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\DevelopmentEnviroments\obj\Debug\DevelopmentEnviroments.exe
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\DevelopmentEnviroments\obj\Debug\DevelopmentEnviroments.pdb

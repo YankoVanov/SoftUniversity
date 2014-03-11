@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.exe
+D:\C Sharp 2013\PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\EmployeeData\obj\Debug\EmployeeData.exe
+D:\C Sharp 2013\PrimitiveDataTypes\EmployeeData\obj\Debug\EmployeeData.pdb

@@ -1,0 +1,5 @@
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\CSharpAndNetDifference\bin\Debug\CSharpAndNetDifference.exe.config
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\CSharpAndNetDifference\bin\Debug\CSharpAndNetDifference.exe
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\CSharpAndNetDifference\bin\Debug\CSharpAndNetDifference.pdb
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\CSharpAndNetDifference\obj\Debug\CSharpAndNetDifference.exe
+C:\Users\Yanko\Documents\GitHub\SoftUniversity\IntroductionToProgramming\CSharpAndNetDifference\obj\Debug\CSharpAndNetDifference.pdb

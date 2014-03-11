@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\ComparingFloats\bin\Debug\ComparingFloats.exe
+D:\C Sharp 2013\PrimitiveDataTypes\ComparingFloats\bin\Debug\ComparingFloats.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\ComparingFloats\obj\Debug\ComparingFloats.exe
+D:\C Sharp 2013\PrimitiveDataTypes\ComparingFloats\obj\Debug\ComparingFloats.pdb

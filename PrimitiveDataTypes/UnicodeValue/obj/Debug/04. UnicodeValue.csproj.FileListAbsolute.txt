@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\UnicodeValue\bin\Debug\UnicodeValue.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\UnicodeValue\bin\Debug\UnicodeValue.exe
+D:\C Sharp 2013\PrimitiveDataTypes\UnicodeValue\bin\Debug\UnicodeValue.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\UnicodeValue\obj\Debug\UnicodeValue.exe
+D:\C Sharp 2013\PrimitiveDataTypes\UnicodeValue\obj\Debug\UnicodeValue.pdb

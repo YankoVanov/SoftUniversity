@@ -1,0 +1,5 @@
+D:\C Sharp 2013\PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\C Sharp 2013\PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\C Sharp 2013\PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\C Sharp 2013\PrimitiveDataTypes\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\C Sharp 2013\PrimitiveDataTypes\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
